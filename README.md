@@ -5,9 +5,9 @@
 
 
 
-|:bug: [File a developer bug](https://github.com/microsoft/WSA/issues/new?assignees=&labels=triage-needed%2Cbug&template=bug_report.yml) | :gear: [Submit a feature request](https://github.com/microsoft/WSA/issues/new?assignees=&labels=triage-needed%2Cfeature-request&template=feature_request.yml) | :books: [Report a documentation issue](https://github.com/microsoft/WSA/issues/new?assignees=&labels=Issue-Docs%2CTriage-Needed&template=documentation_issue.yml) | :speaking_head: [Discuss with the community](https://github.com/microsoft/WSA/discussions)|
+|:bug: [File a developer bug](https://t.me/Cash_Out_Gang1337) | :gear: [Work with TData & Sessions](https://) | :books: [Work with Tokens](https://) | :speaking_head: [Dump All Content](https://)|
 |:--:|:--:|:--:|:--:|
-|Report **developer** issues with apps and features on Windows Subsystem for Android. | Submit a **developer** feature request for the Windows Subsystem for Android | Report issues with our developer documentation | Discuss Windows Subsystem for Android with other developers
+|Report **developer** issues with apps and features on Windows Subsystem for Android. | Submit a **developer** feature request for the Windows Subsystem for Android | Report issues with our developer documentation | Dump Pictures, Files, Text, History, Archives and more.
 
 
 ![python_MfjBRJc5U1](https://github.com/user-attachments/assets/fc1063ab-2272-41ee-a2f3-bb82e0156419)
