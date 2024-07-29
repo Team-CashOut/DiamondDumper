@@ -23,3 +23,5 @@ Well these bots can easily be exploited!
 
 ![python_MfjBRJc5U1](https://github.com/user-attachments/assets/fc1063ab-2272-41ee-a2f3-bb82e0156419)
 
+## The Tool
+This tool can check bot tokens to see if the bot is online, If the bot is online and active, you can now Dump all of that bots contents, files, photos, interactions and more. All we are doing, is simply exploiting the API
