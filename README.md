@@ -16,6 +16,10 @@
 |Report **developer** issues with apps and features on Windows Subsystem for Android. | Submit a **developer** feature request. | Can import single or bulk tokens to store to your database! | Dump Pictures, Files, Text, History, Archives and more.
 
 
+## The Purpose
+70-80% if not more of telegram users have important functions that their bots serve. From Advertisments, to Group Managment, to Phishing Results or Stealer Logs. Bots can severe an important purpose for users..
+Well these bots can easily be exploited!
+
 
 ![python_MfjBRJc5U1](https://github.com/user-attachments/assets/fc1063ab-2272-41ee-a2f3-bb82e0156419)
 
