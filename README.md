@@ -36,3 +36,7 @@ This tool can check bot tokens to see if the bot is online, If the bot is online
 _
 
 ## The Session Manager
+The session manager panel will allow users to have full control over their data and allow them to get the file structure they need for whatever specific task they would like to work on. It can manage and handle Tdata content (Profile_1) and also .Session files
+
+![python_k5nwu1h4wI](https://github.com/user-attachments/assets/0b886402-6584-4d60-8e15-baa4ac51fd9c)
+
