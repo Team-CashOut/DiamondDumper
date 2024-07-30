@@ -21,12 +21,18 @@
 Well these bots can easily be exploited!
 
 
-![python_MfjBRJc5U1](https://github.com/user-attachments/assets/fc1063ab-2272-41ee-a2f3-bb82e0156419)
+![chrome_fGNdGzZcKv](https://github.com/user-attachments/assets/41772ece-8539-4194-a708-53264187a15c)
+
 
 ## The Token Manager
 This tool can check bot tokens to see if the bot is online, If the bot is online and active, you can now Dump all of that bots contents, files, photos, interactions and more. All we are doing, is simply exploiting the API
 
+![cmd_gbPGlP9hld](https://github.com/user-attachments/assets/6f4044c4-5db6-4362-ba69-109eaf911bb3)
 
-
+- Allow Real Time Listening for any updates
+- Authorize Users to Interact with the panel via your controlled Telegram Bot
+- Manage, Dump, Save any and all content from your target bot token
+-
+_
 
 ## The Session Manager
