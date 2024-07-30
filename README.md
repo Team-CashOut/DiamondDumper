@@ -12,7 +12,7 @@
 |:--:|:--:|:--:|:--:|
 |Allows you to scrape and manage tokens from SEO Dorks | Scan, Convert, Load and Test Sessions in Real Time | Send Messages to Subscribers as that hijacked bot! | Veiw User Stats, Groups, Channels and more.
 |🔰 [Multi-Managment](https://t.me/Cash_Out_Gang1337) | ⚙ [Grant Access](https://) | 🗃 [Manage Live Results](https://) | 🔱 [Dump All Content](https://)|
-
+|:--:|:--:|:--:|:--:|
 |Report **developer** issues with apps and features on Windows Subsystem for Android. | Submit a **developer** feature request. | Can import single or bulk tokens to store to your database! | Dump Pictures, Files, Text, History, Archives and more.
 
 
