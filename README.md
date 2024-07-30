@@ -40,3 +40,9 @@ The session manager panel will allow users to have full control over their data 
 
 ![python_k5nwu1h4wI](https://github.com/user-attachments/assets/0b886402-6584-4d60-8e15-baa4ac51fd9c)
 
+- Allow Users to Easily & Conviently check their data for any live sessions
+- Get all the data and details conviently in the panel for a quick overview
+- See the data that matters! View the sessions Channels, Groups, Admin Rights and even Owned Bots
+- Quickly view which accounts have their Crypto Wallet Enabled
+-
+-
