@@ -11,7 +11,7 @@
 |:bug: [Token Scraping](https://t.me/Cash_Out_Gang1337) | :gear: [Work with TData & Sessions](https://) | :books: [Bot Maniupulation](https://) | :speaking_head: [User Statistics](https://)|
 |:--:|:--:|:--:|:--:|
 |Allows you to scrape and manage tokens from SEO Dorks | Scan, Convert, Load and Test Sessions in Real Time | Send Messages to Subscribers as that hijacked bot! | Veiw User Stats, Groups, Channels and more.
-|:shovel: [Multi-Managment](https://t.me/Cash_Out_Gang1337) | :gear: [Grant Access](https://) | :books: [Manage Live Results](https://) | :speaking_head: [Dump All Content](https://)|
+|🔰 [Multi-Managment](https://t.me/Cash_Out_Gang1337) | ⚙ [Grant Access](https://) | 🗃 [Manage Live Results](https://) | 🔱 [Dump All Content](https://)|
 |:--:|:--:|:--:|:--:|
 |Report **developer** issues with apps and features on Windows Subsystem for Android. | Submit a **developer** feature request. | Can import single or bulk tokens to store to your database! | Dump Pictures, Files, Text, History, Archives and more.
 
