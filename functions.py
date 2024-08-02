@@ -143,7 +143,6 @@ async def bot_auth(bot_token, proxy=None):
     else:
         os.mkdir(base_path)
 
-    # advantages of Telethon using for bots: https://github.com/telegram-mtproto/botapi-comparison
     try:
         bot = await TelegramClient(os.path.join(base_path, bot_id), API_ID, API_HASH, proxy=proxy).start(bot_token=bot_token)
         bot.id = bot_id
